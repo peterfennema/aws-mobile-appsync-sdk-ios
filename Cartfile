@@ -1,3 +1,4 @@
-github "peterfennema/aws-sdk-ios"
+# make sure the latest changes on master are applied
+github "peterfennema/aws-sdk-ios" "master"
 github "stephencelis/SQLite.swift" ~> 0.11.4
 github "ashleymills/Reachability.swift" ~> 4.3.0
